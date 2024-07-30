@@ -6,3 +6,6 @@
 3. Adicionar um **colaborador** ao repositório
 4. Clonar o repositório
 5. Fazer uma alteração, commit,abrir issue, pull request
+
+
+### linha incluída por colaborador ###
